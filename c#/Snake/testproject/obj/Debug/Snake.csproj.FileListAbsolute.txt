@@ -1,0 +1,10 @@
+D:\Egyetem\3. félév\evaCS\Snake\testproject\bin\Debug\testproject.exe.config
+D:\Egyetem\3. félév\evaCS\Snake\testproject\bin\Debug\testproject.exe
+D:\Egyetem\3. félév\evaCS\Snake\testproject\bin\Debug\testproject.pdb
+D:\Egyetem\3. félév\evaCS\Snake\testproject\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\Egyetem\3. félév\evaCS\Snake\testproject\obj\Debug\testproject.Form1.resources
+D:\Egyetem\3. félév\evaCS\Snake\testproject\obj\Debug\testproject.Properties.Resources.resources
+D:\Egyetem\3. félév\evaCS\Snake\testproject\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\Egyetem\3. félév\evaCS\Snake\testproject\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Egyetem\3. félév\evaCS\Snake\testproject\obj\Debug\testproject.exe
+D:\Egyetem\3. félév\evaCS\Snake\testproject\obj\Debug\testproject.pdb
